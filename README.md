@@ -1,6 +1,6 @@
 # AgendaWeb
-Agenda Web - JAVA
-Todo el codigo se encuentra en src/main
+Agenda Web - JAVA,
+todo el codigo se encuentra en src/main
 
 ## Agenda Web con JAVA
 Proyecto realizado para agendar contactos ya sean reales o ficticios
